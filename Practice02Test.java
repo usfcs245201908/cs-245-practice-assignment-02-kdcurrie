@@ -65,5 +65,6 @@ public class Practice02Test {
     public static void main(String [] args) {
     	Practice02Test test = new Practice02Test();
     	test.testNQueens();
+
     }
 }
